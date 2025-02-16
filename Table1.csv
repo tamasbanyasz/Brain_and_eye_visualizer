@@ -1,0 +1,29 @@
+﻿"List of tasks included in the dataset, and the purpose of performing each task",,
+Da Vinci simulator modules,Name of task (ID),Purpose
+EndoWrist Manipulation 1,·         Pick and place (1),"to familiarize users with the movement of the EndoWrist instruments, which are designed to provide surgeons with improved range of motion and dexterity"
+,·         Peg board 1 (2),
+,·         Peg board 2 (3),
+EndoWrist Manipulation 2,·         Match board 1 (4),
+,·         Match board 2 (5),
+,·         Match board 3 (6),
+,·         Ring and rail 1(7),
+,·         Ring and rail 2 (8),
+Camera and Clutching,·         Camera targeting 1 (9),"to improve the user’s camera control, use of the clutch, and effectively use the enhanced vision features of the simulator"
+,·         Camera targeting 2 (10),
+,·         Scaling (11),
+,·         Ring walk 1 (12),
+,·         Ring walk 2 (13),
+,·         Ring walk 3 (14),
+Needle Control,·         Needle targeting (15),"to help users develop skills when manipulating needles, focusing on effective hand-off and position"
+,·         Thread the rings (16),
+Needle Driving,·         Suture sponge 1 (17),
+,·         Suture sponge 2 (18),
+,·         Suture sponge 3 (19),
+,·         Dots and needles 1 (20),
+,·         Dots and needles 2 (21),
+,·         Tubes (22),
+Energy and Dissection,·         Energy switching 1 (23),to familiarize users with the footswitch panel to apply monopolar and bipolar energy during dissection tasks and swap between different energy instruments
+,·         Energy switching 2 (24),
+,·         Energy dissection 1 (25),
+,·         Energy dissection 2 (26),
+,·         Energy dissection 3 (27),
